@@ -1,0 +1,28 @@
+{
+  "name": "enchiridion",
+  "displayName": "Enchiridion",
+  "version": "0.0.0",
+  "description": "Minimal theme",
+  "author": "João Alberto <hey@joaoalberto.dev>",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infinite-nil/enchiridion"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Enchiridion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/enchiridion-dark-color-theme.json"
+      }
+    ]
+  }
+}

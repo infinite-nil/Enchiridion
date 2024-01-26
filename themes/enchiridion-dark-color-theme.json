@@ -1,0 +1,18 @@
+{
+  "name": "Enchiridion",
+  "type": "dark",
+  "semanticHighlighting": false,
+  "colors": {
+    "foreground": "#BDB9B9",
+    "focusBorder": "#BDB9B9",
+    "widget.border": "#10101000",
+    "widget.shadow": "#10101000",
+    "selection.background": "#101010ff",
+    "descriptionForeground": "#BDB9B9",
+    "errorForeground": "#BDB9B9",
+    "icon.foreground": "#BDB9B9",
+    "window.activeBorder": "#10101000",
+    "window.inactiveBorder": "#10101000",
+    "textBlockQuote.background": "#ff0000"
+  },
+}
